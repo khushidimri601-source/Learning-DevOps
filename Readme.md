@@ -1,1 +1,1 @@
-## Learning basic functionality of github
+## Learning basic functionality of  DevOps
